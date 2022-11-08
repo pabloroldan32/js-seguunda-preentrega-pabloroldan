@@ -1,0 +1,38 @@
+/*color nav*/
+.bg-colorNav{
+	background-color: rgba(85, 107, 47, .5);
+}
+.bg-colorNav a{
+	color: black;
+	font-family:'Josefin Sans', sans-serif;
+}
+.bg-colorNav a:hover{
+	color:  #398170;
+}
+
+
+
+/*color footer*/
+.bg-colorFooter{
+	/*background-color: rgba(#398170);*/
+	background-color: rgba(85, 107, 47, .5);
+	border: 2px solid;
+    width: 100%;
+    }
+
+.bg-colorFooter{
+	color: black;
+}
+
+.style-Card{
+	width:350px;
+	text-align: center;
+	margin: 5px;
+}
+
+
+
+
+
+
+
